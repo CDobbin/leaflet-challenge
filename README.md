@@ -1,1 +1,5 @@
 # leaflet-challenge
+
+This repository contains a project developed for the USGS Leaflet Challenge, which focuses on visualizing earthquake data. The project uses Leaflet and D3 to display earthquake locations on an interactive map, with markers dynamically sized based on magnitude and colored according to depth. Users can click on each marker to view detailed information such as the earthquake’s magnitude, location, and depth. An integrated legend provides context for the color scales, enhancing the map's readability and usefulness for both the public and government agencies looking to better understand seismic activity.
+
+The repository is structured to support further expansion, including optional features such as the overlay of tectonic plate boundaries and multiple base maps. The project adheres to modern web standards, incorporating external libraries like Leaflet for map rendering and D3 for data handling, while also ensuring responsiveness via a well-designed HTML and CSS framework. This setup not only meets the challenge requirements but also provides a flexible foundation for future enhancements and additional data visualizations.
